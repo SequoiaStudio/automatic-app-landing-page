@@ -1,60 +1,29 @@
 ---
 layout: page
-title: terms
+title: Terms of Services
 include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+Jan 1st 2020
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# Terms of Services
+This is an agreement between you and Sequoia Studios for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Please carefully read all the terms and conditions of Sequoia Studios. When you click to install Sequoia Studios applications, you are agreeing with all the terms and conditions of the service. And if you don't agree,you can cancel the installation and you must destroy,return or delete all copies of Sequoia Studios applications in your possession.
 
-<br>
+You agree not to use the system for sending spam, port scanning, scanning for open proxies or open relays, sending opt-in email, unsolicited email or any type or version of email sent in large quantities even if the email is ultimately sent off of another server. You agree not to launch any pop-ups from our service. You agree not to attack in any way shape or form any other computer or network while on our service.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Actual service coverage, speeds, locations and quality may vary. The Service will attempt to be available at all times except for limited periods for maintenance and repair. However the Service may be subject to unavailability for a variety of factors beyond our control including emergencies, third party service failures, transmission, equipment or network problems or limitations, interference, signal strength, and may be interrupted, refused, limited or curtailed. We are not responsible for data, messages or pages lost, not delivered, delayed or misdirected because of interruptions or performance issues with the Service or communications services or networks (e.g., T-1 lines or the Internet). We may impose usage or Service limits, suspend Service, or block certain kinds of usage in our sole discretion to protect users or the Service. Network speed is an estimate and is no indication of the speed at which your or the Service sends or receives data. Actual network speed will vary based on configuration, compression, network congestion and other factors. The accuracy and timeliness of data received is not guaranteed; delays or omissions may occur.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Hacking, cracking, distribution of viruses, fraudulent activities, network sabotage, phishing, and/or any conduct deemed illegal or unwanted shall be subject to suspension or termination. Users are responsible for the proper secure configuration of their services and are responsible for any damages caused by their neglect or exposure of vulnerabilities whether intentional or unintentional.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We do not put any cap on bandwidth or data usage per user however the use of service is subjected to fair usage. Creating automated or manual VPN sessions in a manner that would impersonate a bot or exerting excessive load on the network that may disturb other users on the network or utilizing substantially excessive bandwidth that exceeds the average user bandwidth usage for an extended duration or the likes, all are considered as unfair usage of the network. We reserve the right to temporary suspend or permanently terminate users found involved in unfair usage of its services.
+
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Sequoia Studios DMCA Policy
+Sequoia Studios is a service provider of transitory digital network communications under the Digital Millennium Copyright Act ("DMCA") 17 U.S.C. p. 512(a). Accordingly, it is Sequoia Studios's policy to promptly terminate without notice the accounts of those determined by Sequoia Studios to be repeat infringers, where a repeat infringer is an end user of the Sequoia Studios Services who has been notified by Sequoia Studios of infringing transmissions activities more than twice ("Repeat Infringer Policy"). Because of the ephemeral nature of transmissions imitated at the direction of persons using the Sequoia Studios Service, it is generally not possible for Sequoia Studios to take-down content from its system, but it will use all reasonable efforts to identify the offending persons in order to enforce its Repeat Infringer Policy.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
