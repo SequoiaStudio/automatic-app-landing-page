@@ -83,14 +83,14 @@ In specific circumstances we may also retain your personal data for longer perio
 ## 7. What are your rights?
 Your principal rights under data protection law in relation to your Persona Data are:
 
-(a)	the right to access and information which is provided to you through your account;
-(b)	the right to rectification;
-(c)	the right to erasure;
-(d)	the right to restrict processing;
-(e)	the right to object to processing;
-(f)	the right to data portability;
-(g)	the right to complain to a supervisory authority; and
-(h)	the right to withdraw consent.
+1. The right to access and information which is provided to you through your account;
+2. The right to rectification;
+3. The right to erasure;
+4. The right to restrict processing;
+5. The right to object to processing;
+6. The right to data portability;
+7. The right to complain to a supervisory authority; and
+8. The right to withdraw consent.
 
 We provide you with the ability to exercise certain choices and controls in connection with our treatment of your Personal Data. Depending on your relationship with us, these choices and controls may include, access to the Personal Data collected about you that we hold; correcting, updating or deleting the information associated with you that we hold; and in the event, you wish to opt out from the data collection or you are not able to exerciser your rights through your account please contact us. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply.
 
