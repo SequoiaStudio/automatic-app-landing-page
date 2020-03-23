@@ -108,4 +108,4 @@ After a transaction, your private information (credit cards, financials, etc.) w
 ## 9. Contact and complaints
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Email address: johnsonbercow@gmail.com
+<p class="p6"><span class="s5">Email address: <a href="mailto:johnsonbercow@gmail.com"><span class="s6">johnsonbercow@gmail.com</span></a></span></p>
