@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Super Fast Speed Proxys
-    description                           : Fast, will connect to the fastest and most recent VPN proxy server.
+    description                           : Connect to the fastest and most recent VPN proxy server.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Constantly Improving
